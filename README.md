@@ -1,19 +1,19 @@
 
-# 🧠 [Brain Tumor Test]
+# [Brain Tumor Detection]
 
 Brain Tumor Test is a **Deep Learning Web Application** based on a **CNN Architecture** which uses MRI Scanned *clear* images to find out whether a patient is suffering from a brain tumor or not.
 
 It also helps us to distinguish between the *types* of Brain Tumors which could be present. 
 
 
-## 🤖 Under the hood
+# What it is ?
 
 Brain Tumor Test uses the concept of **Transfer Learning** which enables us to use the *weights and biases* of some of the famous CNN architectures which ***decreases the amount of computational time significantly.***
 
 I've used the **EfficientNetB0** architecture for this task.
 
 
-## 📊 Dataset
+# Dataset
 
 The dataset contains a total of **10000** images of MRI Scanned clear images of patients with and without brain tumors.
 There are 3 major types of tumors which we're dealing with in this dataset:
@@ -26,7 +26,7 @@ The dataset is present on **Kaggle** and you can check it out by clicking on thi
 
 
   
-## ⚙️ Tech Stack
+# Tech Stack
 
 - **Programming Language:** Python
 - **Scripting Languages:** HTML, CSS
@@ -34,6 +34,6 @@ The dataset is present on **Kaggle** and you can check it out by clicking on thi
 - **Backend Framework:** Flask
 
   
-## 👨‍💻 Contributors
+# Contributors
 - Amisha Gokhale - BE4 - B150054296
   
