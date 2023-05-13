@@ -31,9 +31,13 @@ The dataset is present on **Kaggle** and you can check it out by clicking on thi
 
 ![no_detected](https://github.com/Amisha03032000/Brain-Tumor-Detection-/assets/114260916/4b740f35-ed36-42a1-9953-45aa7a447a56)
 
+# Graph to compare modelss
 ![graph](https://github.com/Amisha03032000/Brain-Tumor-Detection-/assets/114260916/001e9d35-f69b-4736-bfd1-edfd61e892a8)
 
+# Accuracy and Statistics of output
 ![table](https://github.com/Amisha03032000/Brain-Tumor-Detection-/assets/114260916/57e26c85-d463-4982-ba12-c9e84d3a6ad1)
+
+![table_2](https://github.com/Amisha03032000/Brain-Tumor-Detection-/assets/114260916/0692aeb2-2a61-402b-ab3e-183ff87e9fb4)
 
 
 # Tech Stack
