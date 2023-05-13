@@ -25,7 +25,17 @@ Along with this, we also train the model on MRI Scanned images of patients who d
 The dataset is present on **Kaggle** and you can check it out by clicking on this link [here](https://www.kaggle.com/sartajbhuvaji/brain-tumor-classification-mri)
 
 
-  
+![initial_page](https://github.com/Amisha03032000/Brain-Tumor-Detection-/assets/114260916/43da4fc1-30e9-452d-9c52-896464f3526c)
+
+![tumor_found_type_](https://github.com/Amisha03032000/Brain-Tumor-Detection-/assets/114260916/1b479027-f475-4859-87ca-f93705bb8190)
+
+![no_detected](https://github.com/Amisha03032000/Brain-Tumor-Detection-/assets/114260916/4b740f35-ed36-42a1-9953-45aa7a447a56)
+
+![graph](https://github.com/Amisha03032000/Brain-Tumor-Detection-/assets/114260916/001e9d35-f69b-4736-bfd1-edfd61e892a8)
+
+![table](https://github.com/Amisha03032000/Brain-Tumor-Detection-/assets/114260916/57e26c85-d463-4982-ba12-c9e84d3a6ad1)
+
+
 # Tech Stack
 
 - **Programming Language:** Python
